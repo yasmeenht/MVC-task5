@@ -1,0 +1,41 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model BigTask.Models.SupplyCategories;
+
+<h1>@ViewBag.Category Category</h1>
+@{
+    SupplyCategories[] mycat = new();
+}
+@foreach (SupplyCategories record in ViewBag.Categories)
+{
+    if (record.Category == ViewBag.SelectedCategory){
+
+        @mycat.Append(record)
+        ;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form>
+
+    <input type="radio" value="record" name="ctgry" />
+    <h6>@record.Category</h6>
+    <h6>@record.Supplier</h6>
+    <h6>@record.Offer</h6>
+
+    <br /><br />
+    <button type="submit">Submit</button>
+
+</form>
