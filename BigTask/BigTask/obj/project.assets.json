@@ -3416,11 +3416,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\BigTask\\BigTask\\BigTask.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\BigTask.csproj",
       "projectName": "BigTask",
-      "projectPath": "C:\\Users\\user\\Desktop\\BigTask\\BigTask\\BigTask.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\BigTask.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\BigTask\\BigTask\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
