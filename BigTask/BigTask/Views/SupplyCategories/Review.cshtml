@@ -1,0 +1,22 @@
+﻿@using System.Text.Json
+@using BigTask.Models
+
+@{
+    List<SupplyCategories> selectedRecords = new();
+
+    string[] SelectedRecords = ViewBag.SelectedSuppliers;
+}
+
+@foreach (SupplyCategories record in ViewBag.Records)
+{
+    if (SelectedRecords.Contains(record.Supplier))
+    {
+        <p>@record.Category @record.Supplier @record.Offer @record.UnitPrices @record.Quantity</p>
+        selectedRecords.Add(record);
+    }
+}
+
+@{
+    Context.Session.SetString("selectedRecords", JsonSerializer.Serialize(selectedRecords));
+}
+<a href="@Url.Action("Calculations", "SupplyCategories")">Continue to Calculations</a>

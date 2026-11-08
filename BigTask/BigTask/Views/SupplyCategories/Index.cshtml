@@ -1,25 +1,50 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-    @model BigTask.Models.SupplyCategories;
-}
+﻿@using BigTask.Models
 
-@{
+<form method="post" asp-controller="SupplyCategories" asp-action="Review">
+    <div>
+        <h3>Graduation Certificates</h3>
 
+        @foreach (SupplyCategories record in ViewBag.Records)
+        {
+            if (record.Category == "Graduation Certificates")
+            {
+                <div>
+                    <input type="radio" name="Certificates" value="@record.Supplier" />
+                    <label>@record.Supplier - @record.Offer - Quantity: @record.Quantity</label>
+                </div>
+            }
+        }
+    </div>
 
-}
+    <div>
+        <h3>Hospitality</h3>
 
-<h3>Select A Category</h3>
-<form method="post" asp-controller="SupplyCategories" asp-action="ShowSuppliers">
-    <select name="SelectedCategory">
-        <option value="">Select Category</option>
-        <option value="Graduation Certificates">Graduation Certificates</option>
-        <option value="Hospitality">Hospitality</option>
-        <option value="Graduation Gifts">Graduation Gifts</option>
-    </select>
+        @foreach (SupplyCategories record in ViewBag.Records)
+        {
+            if (record.Category == "Hospitality")
+            {
+                <div>
+                    <input type="radio" name="Hospitality" value="@record.Supplier" />
+                    <label>@record.Supplier - @record.Offer - Quantity: @record.Quantity</label>
+                </div>
+            }
+        }
+    </div>
+
+    <div>
+        <h3>Graduation Gifts</h3>
+
+        @foreach (SupplyCategories record in ViewBag.Records)
+        {
+            if (record.Category == "Graduation Gifts")
+            {
+                <div>
+                    <input type="radio" name="Gifts" value="@record.Supplier" />
+                    <label>@record.Supplier - @record.Offer - Quantity: @record.Quantity</label>
+                </div>
+            }
+        }
+    </div>
 
     <button type="submit">Submit</button>
 </form>
-
-

@@ -1,0 +1,30 @@
+﻿@using BigTask.Models
+
+<h2>Graduation Supply Review</h2>
+
+@{
+    int i = 0;
+}
+
+@foreach (SupplyCategories record in ViewBag.Records)
+{
+    <div>
+        <p>Category: @record.Category</p>
+        <p>Supplier: @record.Supplier</p>
+        <p>Offer: @record.Offer</p>
+        <p>Quantity: @record.Quantity</p>
+        <p>Unit Price: @record.UnitPrices JD</p>
+        <p>Offer Total: @ViewBag.OfferTotals[i] JD</p>
+    </div>
+
+    <hr />
+
+    i++;
+}
+
+<h3>Order Summary</h3>
+
+<p>Subtotal: @ViewBag.Subtotal JD</p>
+<p>Discount: @ViewBag.DiscountPercentage%</p>
+<p>Discount Amount: @ViewBag.DiscountAmount JD</p>
+<p>Final Total: @ViewBag.FinalTotal JD</p>

@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BigTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d12027604e429a61f021477877430db746c2270")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6721f0b8ec605441526f1f4761939c9eb1fe5a36")]
 [assembly: System.Reflection.AssemblyProductAttribute("BigTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BigTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

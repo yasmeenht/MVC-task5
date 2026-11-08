@@ -1,34 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\BigTask\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{635FCB69-328E-4A80-99E2-2C0E29A61F9F}|BigTask\\BigTask.csproj|c:\\users\\user\\desktop\\bigtask\\bigtask\\views\\supplycategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{635FCB69-328E-4A80-99E2-2C0E29A61F9F}|BigTask\\BigTask.csproj|solutionrelative:bigtask\\views\\supplycategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6E0F5A6F-436F-7B78-0754-AD93CF90AD0D}|BigTask\\BigTask.csproj|c:\\users\\user\\desktop\\mvc-task5\\bigtask\\bigtask\\views\\supplycategories\\calculations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E0F5A6F-436F-7B78-0754-AD93CF90AD0D}|BigTask\\BigTask.csproj|solutionrelative:bigtask\\views\\supplycategories\\calculations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{635FCB69-328E-4A80-99E2-2C0E29A61F9F}|BigTask\\BigTask.csproj|c:\\users\\user\\desktop\\bigtask\\bigtask\\views\\supplycategories\\showsuppliers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{635FCB69-328E-4A80-99E2-2C0E29A61F9F}|BigTask\\BigTask.csproj|solutionrelative:bigtask\\views\\supplycategories\\showsuppliers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6E0F5A6F-436F-7B78-0754-AD93CF90AD0D}|BigTask\\BigTask.csproj|c:\\users\\user\\desktop\\mvc-task5\\bigtask\\bigtask\\views\\supplycategories\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E0F5A6F-436F-7B78-0754-AD93CF90AD0D}|BigTask\\BigTask.csproj|solutionrelative:bigtask\\views\\supplycategories\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{635FCB69-328E-4A80-99E2-2C0E29A61F9F}|BigTask\\BigTask.csproj|c:\\users\\user\\desktop\\bigtask\\bigtask\\models\\supplycategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{635FCB69-328E-4A80-99E2-2C0E29A61F9F}|BigTask\\BigTask.csproj|solutionrelative:bigtask\\models\\supplycategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{635FCB69-328E-4A80-99E2-2C0E29A61F9F}|BigTask\\BigTask.csproj|c:\\users\\user\\desktop\\bigtask\\bigtask\\controllers\\supplycategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{635FCB69-328E-4A80-99E2-2C0E29A61F9F}|BigTask\\BigTask.csproj|solutionrelative:bigtask\\controllers\\supplycategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{635FCB69-328E-4A80-99E2-2C0E29A61F9F}|BigTask\\BigTask.csproj|c:\\users\\user\\desktop\\bigtask\\bigtask\\bigtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{635FCB69-328E-4A80-99E2-2C0E29A61F9F}|BigTask\\BigTask.csproj|solutionrelative:bigtask\\bigtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{635FCB69-328E-4A80-99E2-2C0E29A61F9F}|BigTask\\BigTask.csproj|c:\\users\\user\\desktop\\bigtask\\bigtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{635FCB69-328E-4A80-99E2-2C0E29A61F9F}|BigTask\\BigTask.csproj|solutionrelative:bigtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{635FCB69-328E-4A80-99E2-2C0E29A61F9F}|BigTask\\BigTask.csproj|c:\\users\\user\\desktop\\bigtask\\bigtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{635FCB69-328E-4A80-99E2-2C0E29A61F9F}|BigTask\\BigTask.csproj|solutionrelative:bigtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E0F5A6F-436F-7B78-0754-AD93CF90AD0D}|BigTask\\BigTask.csproj|c:\\users\\user\\desktop\\mvc-task5\\bigtask\\bigtask\\controllers\\supplycategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0F5A6F-436F-7B78-0754-AD93CF90AD0D}|BigTask\\BigTask.csproj|solutionrelative:bigtask\\controllers\\supplycategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ShowSuppliers.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BigTask\\BigTask\\Views\\SupplyCategories\\ShowSuppliers.cshtml",
-              "RelativeDocumentMoniker": "BigTask\\Views\\SupplyCategories\\ShowSuppliers.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\BigTask\\BigTask\\Views\\SupplyCategories\\ShowSuppliers.cshtml",
-              "RelativeToolTip": "BigTask\\Views\\SupplyCategories\\ShowSuppliers.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Title": "Review.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\Views\\SupplyCategories\\Review.cshtml",
+              "RelativeDocumentMoniker": "BigTask\\Views\\SupplyCategories\\Review.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\Views\\SupplyCategories\\Review.cshtml",
+              "RelativeToolTip": "BigTask\\Views\\SupplyCategories\\Review.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-07T20:11:36.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BigTask\\BigTask\\Views\\SupplyCategories\\Index.cshtml",
-              "RelativeDocumentMoniker": "BigTask\\Views\\SupplyCategories\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\BigTask\\BigTask\\Views\\SupplyCategories\\Index.cshtml",
-              "RelativeToolTip": "BigTask\\Views\\SupplyCategories\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-07T20:01:53.099Z",
+              "WhenOpened": "2026-11-07T23:41:52.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SupplyCategories.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BigTask\\BigTask\\Models\\SupplyCategories.cs",
-              "RelativeDocumentMoniker": "BigTask\\Models\\SupplyCategories.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\BigTask\\BigTask\\Models\\SupplyCategories.cs",
-              "RelativeToolTip": "BigTask\\Models\\SupplyCategories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T19:46:59.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "SupplyCategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BigTask\\BigTask\\Controllers\\SupplyCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\Controllers\\SupplyCategoriesController.cs",
               "RelativeDocumentMoniker": "BigTask\\Controllers\\SupplyCategoriesController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\BigTask\\BigTask\\Controllers\\SupplyCategoriesController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\Controllers\\SupplyCategoriesController.cs",
               "RelativeToolTip": "BigTask\\Controllers\\SupplyCategoriesController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwFoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T19:46:45.774Z",
+              "WhenOpened": "2026-11-07T23:37:36.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BigTask",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BigTask\\BigTask\\BigTask.csproj",
-              "RelativeDocumentMoniker": "BigTask\\BigTask.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\BigTask\\BigTask\\BigTask.csproj",
-              "RelativeToolTip": "BigTask\\BigTask.csproj",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-07T20:10:31.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BigTask\\BigTask\\Program.cs",
-              "RelativeDocumentMoniker": "BigTask\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\BigTask\\BigTask\\Program.cs",
-              "RelativeToolTip": "BigTask\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T19:58:07.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BigTask\\BigTask\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BigTask\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\BigTask\\BigTask\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BigTask\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T19:08:08.972Z",
+              "DocumentIndex": 0,
+              "Title": "Calculations.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\Views\\SupplyCategories\\Calculations.cshtml",
+              "RelativeDocumentMoniker": "BigTask\\Views\\SupplyCategories\\Calculations.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\Views\\SupplyCategories\\Calculations.cshtml",
+              "RelativeToolTip": "BigTask\\Views\\SupplyCategories\\Calculations.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-07T23:29:04.071Z",
               "EditorCaption": ""
             }
           ]
