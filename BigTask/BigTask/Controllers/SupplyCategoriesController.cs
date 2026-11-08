@@ -13,17 +13,17 @@ namespace BigTask.Controllers
         {
             SupplyCategories[] records =
             {
-                new SupplyCategories("Graduation Certificates", "Supplier A", "Premium Certificate Package", 35, 2),
-                new SupplyCategories("Graduation Certificates", "Supplier B", "Standard Certificate Package", 35, 1),
-                new SupplyCategories("Graduation Certificates", "Supplier C", "Luxury Certificate Package", 35, 2),
+                new SupplyCategories("Graduation Certificates", "Supplier A", "Premium Certificate Package", 2, 35),
+                new SupplyCategories("Graduation Certificates", "Supplier B", "Standard Certificate Package", 1.5, 35),
+                new SupplyCategories("Graduation Certificates", "Supplier C", "Luxury Certificate Package", 2.5, 35),
 
-                new SupplyCategories("Hospitality", "Supplier D", "Coffee & Drinks Package", 100, 2),
-                new SupplyCategories("Hospitality", "Supplier E", "Sandwiches & Snacks Package", 100, 3),
-                new SupplyCategories("Hospitality", "Supplier F", "Full Hospitality Package", 100, 4),
+                new SupplyCategories("Hospitality", "Supplier D", "Coffee & Drinks Package", 2, 100),
+                new SupplyCategories("Hospitality", "Supplier E", "Sandwiches & Snacks Package", 3, 100),
+                new SupplyCategories("Hospitality", "Supplier F", "Full Hospitality Package", 4, 100),
 
-                new SupplyCategories("Graduation Gifts", "Supplier G", "Customized Mugs Package", 35, 2),
-                new SupplyCategories("Graduation Gifts", "Supplier H", "Graduation Bags Package", 35, 3),
-                new SupplyCategories("Graduation Gifts", "Supplier I", "Premium Gift Boxes Package", 35, 4)
+                new SupplyCategories("Graduation Gifts", "Supplier G", "Customized Mugs Package", 2, 35),
+                new SupplyCategories("Graduation Gifts", "Supplier H", "Graduation Bags Package", 3, 35),
+                new SupplyCategories("Graduation Gifts", "Supplier I", "Premium Gift Boxes Package", 4, 35)
             };
             HttpContext.Session.SetString("records", JsonSerializer.Serialize(records));
             ViewBag.Records = records;
@@ -35,6 +35,14 @@ namespace BigTask.Controllers
         public IActionResult Review(string Certificates, string Hospitality, string Gifts)
         {
             string[] SelectedRecords = {Certificates,  Hospitality, Gifts};
+
+            if (string.IsNullOrWhiteSpace(Certificates) ||
+                string.IsNullOrWhiteSpace(Hospitality) ||
+                string.IsNullOrWhiteSpace(Gifts))
+                        {
+                            return RedirectToAction("Index");
+                        }
+
             HttpContext.Session.SetString("SelcectedRecords", JsonSerializer.Serialize(SelectedRecords));
             ViewBag.SelectedSuppliers = SelectedRecords;
 

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E0F5A6F-436F-7B78-0754-AD93CF90AD0D}|BigTask\\BigTask.csproj|c:\\users\\user\\desktop\\mvc-task5\\bigtask\\bigtask\\views\\supplycategories\\calculations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E0F5A6F-436F-7B78-0754-AD93CF90AD0D}|BigTask\\BigTask.csproj|solutionrelative:bigtask\\views\\supplycategories\\calculations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6E0F5A6F-436F-7B78-0754-AD93CF90AD0D}|BigTask\\BigTask.csproj|c:\\users\\user\\desktop\\mvc-task5\\bigtask\\bigtask\\controllers\\supplycategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0F5A6F-436F-7B78-0754-AD93CF90AD0D}|BigTask\\BigTask.csproj|solutionrelative:bigtask\\controllers\\supplycategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0F5A6F-436F-7B78-0754-AD93CF90AD0D}|BigTask\\BigTask.csproj|c:\\users\\user\\desktop\\mvc-task5\\bigtask\\bigtask\\views\\supplycategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E0F5A6F-436F-7B78-0754-AD93CF90AD0D}|BigTask\\BigTask.csproj|solutionrelative:bigtask\\views\\supplycategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E0F5A6F-436F-7B78-0754-AD93CF90AD0D}|BigTask\\BigTask.csproj|c:\\users\\user\\desktop\\mvc-task5\\bigtask\\bigtask\\views\\supplycategories\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6E0F5A6F-436F-7B78-0754-AD93CF90AD0D}|BigTask\\BigTask.csproj|solutionrelative:bigtask\\views\\supplycategories\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E0F5A6F-436F-7B78-0754-AD93CF90AD0D}|BigTask\\BigTask.csproj|c:\\users\\user\\desktop\\mvc-task5\\bigtask\\bigtask\\controllers\\supplycategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E0F5A6F-436F-7B78-0754-AD93CF90AD0D}|BigTask\\BigTask.csproj|solutionrelative:bigtask\\controllers\\supplycategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Review.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\Views\\SupplyCategories\\Review.cshtml",
-              "RelativeDocumentMoniker": "BigTask\\Views\\SupplyCategories\\Review.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\Views\\SupplyCategories\\Review.cshtml",
-              "RelativeToolTip": "BigTask\\Views\\SupplyCategories\\Review.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-07T23:41:52.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SupplyCategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\Controllers\\SupplyCategoriesController.cs",
               "RelativeDocumentMoniker": "BigTask\\Controllers\\SupplyCategoriesController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\Controllers\\SupplyCategoriesController.cs",
               "RelativeToolTip": "BigTask\\Controllers\\SupplyCategoriesController.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAmwFoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-07T23:37:36.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Calculations.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\Views\\SupplyCategories\\Calculations.cshtml",
-              "RelativeDocumentMoniker": "BigTask\\Views\\SupplyCategories\\Calculations.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\Views\\SupplyCategories\\Calculations.cshtml",
-              "RelativeToolTip": "BigTask\\Views\\SupplyCategories\\Calculations.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Review.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\Views\\SupplyCategories\\Review.cshtml",
+              "RelativeDocumentMoniker": "BigTask\\Views\\SupplyCategories\\Review.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\Views\\SupplyCategories\\Review.cshtml",
+              "RelativeToolTip": "BigTask\\Views\\SupplyCategories\\Review.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-07T23:29:04.071Z",
+              "WhenOpened": "2026-11-08T07:52:43.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\Views\\SupplyCategories\\Index.cshtml",
+              "RelativeDocumentMoniker": "BigTask\\Views\\SupplyCategories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC-task5\\BigTask\\BigTask\\Views\\SupplyCategories\\Index.cshtml",
+              "RelativeToolTip": "BigTask\\Views\\SupplyCategories\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T07:51:27.002Z",
               "EditorCaption": ""
             }
           ]
